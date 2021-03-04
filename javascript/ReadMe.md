@@ -14,7 +14,5 @@ N高等学校でのインターンで無断欠席者への架電業務があり�
 という二つの機能を持ったGoogle App Scriptのコードを書きました。
 javascriptを書くのは初めてでしたが、Googleで検索して出てきたパーツの組み合わせで完成しました。
 
-デモスプレッドシート
-https://docs.google.com/spreadsheets/d/1vlG3SYrjXS8zs0Kp5Ti7UKqL7_LoN-A3VRr73aps8UU/edit?usp=sharing  
-デモ用データ引用シート
-https://docs.google.com/spreadsheets/d/1YHsv6UWLEsx8Gl-LqXzfB--Zx7h-b_ZydihTSp9Htac/edit?usp=sharing
+[デモスプレッドシート](https://docs.google.com/spreadsheets/d/1vlG3SYrjXS8zs0Kp5Ti7UKqL7_LoN-A3VRr73aps8UU/edit?usp=sharing)  
+[デモ用データ引用シート](https://docs.google.com/spreadsheets/d/1YHsv6UWLEsx8Gl-LqXzfB--Zx7h-b_ZydihTSp9Htac/edit?usp=sharing)
