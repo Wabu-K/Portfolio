@@ -1,4 +1,4 @@
-# javascript
+# JavaScript
 N高等学校でのインターンで無断欠席者への架電業務がありました。
 
 1. Google formで作られた「欠席連絡フォーム」と「遅刻・IDカード忘れフォーム」から、手作業で出欠席管理用のGoogle Spreadsheetに情報を記入する。 
@@ -12,7 +12,7 @@ N高等学校でのインターンで無断欠席者への架電業務があり�
 3. 架電対象者の名前と電話番号2種をメッセージボックスで表示する
 
 という二つの機能を持ったGoogle App Scriptのコードを書きました。
-javascriptを書くのは初めてでしたが、Googleで検索して出てきたパーツの組み合わせで完成しました。
+JavaScriptを書くのは初めてでしたが、Googleで検索して出てきたパーツの組み合わせで完成しました。
 
 [デモスプレッドシート](https://docs.google.com/spreadsheets/d/1vlG3SYrjXS8zs0Kp5Ti7UKqL7_LoN-A3VRr73aps8UU/edit?usp=sharing)  
 [デモ用データ引用シート](https://docs.google.com/spreadsheets/d/1YHsv6UWLEsx8Gl-LqXzfB--Zx7h-b_ZydihTSp9Htac/edit?usp=sharing)
