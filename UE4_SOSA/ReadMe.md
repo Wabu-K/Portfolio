@@ -30,6 +30,6 @@ UIデザイン・実装：UMG（Unreal Motion Graphics）を利用して実装�
 モデリング：blenderで机や椅子、教室をモデリングした。  
 バージョン管理：VPSサーバ上にPerforceを導入した。Unreal Engine 4でPerforceを利用するにあたってのドキュメントが存在せず、個人による情報も少なかったため、法人向けの古いドキュメントなどを参照しながら試行錯誤した。その結果は[WordPressのブログ](https://kbkn.xyz/ue4/ue4-perforce/)にまとめ、公開した。  
 
-##最近の改善に向けた取り組み例
+## 最近の改善に向けた取り組み例
 [デフォルトのボタンからマウスホバーに対応したそれっぽいデザインに改善](https://twitter.com/Cen_Idola/status/1351910360765239296?s=20)  
 [アイテムメニューを「使用するアイテム」と「ドキュメント」にタブ分け](https://twitter.com/Cen_Idola/status/1374046138135765000?s=20)　　
