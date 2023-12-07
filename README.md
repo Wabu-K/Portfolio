@@ -1,4 +1,4 @@
-# Portfolio
+# 新卒就活Portfolio
 
 ## JavaScript
 N高等学校でのインターンでGoogle App Scriptを利用して煩雑な業務の効率化に取り組みました。  
